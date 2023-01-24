@@ -77,4 +77,4 @@ int main(int argc, char const *argv[]) {
 	  jmoffett@odd35:~$ cd 2400
 	  jmoffett@odd35:~/2400$ g++ -Wall git-lab-program.cc
 	  jmoffett@odd35:~/2400$ ./a.out
-	  Hello Git!!
+	  Hello Git!! 
